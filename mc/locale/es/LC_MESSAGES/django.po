@@ -19,47 +19,47 @@ msgstr ""
 
 #: apps/dashboard/templates/dashboard/actions_table.html:5
 msgid "Operation"
-msgstr ""
+msgstr "Operación"
 
 #: apps/dashboard/templates/dashboard/actions_table.html:6
 msgid "Time"
-msgstr ""
+msgstr "Tiempo"
 
 #: apps/dashboard/templates/dashboard/actions_table.html:7
 msgid "Collection Id"
-msgstr ""
+msgstr "Id de la colección"
 
 #: apps/dashboard/templates/dashboard/actions_table.html:8
 #: apps/dashboard/templates/dashboard/collections_table.html:9
 #: apps/dashboard/templates/dashboard/homepage.html:19
 msgid "Collection"
-msgstr ""
+msgstr "Colección"
 
 #: apps/dashboard/templates/dashboard/actions_table.html:9
 msgid "Document ID"
-msgstr ""
+msgstr "Id del documento"
 
 #: apps/dashboard/templates/dashboard/actions_table.html:10
 #: apps/dashboard/templates/dashboard/collection.html:24
 #: apps/dashboard/templates/dashboard/documents_table.html:9
 #: apps/dashboard/templates/dashboard/homepage.html:20
 msgid "Document"
-msgstr ""
+msgstr "Documento"
 
 #: apps/dashboard/templates/dashboard/actions_table.html:11
 msgid "Page ID"
-msgstr ""
+msgstr "Id de la página"
 
 #: apps/dashboard/templates/dashboard/actions_table.html:12
 #: apps/library/templates/library/documents_table.html:9
 msgid "Page"
-msgstr ""
+msgstr "Página"
 
 #: apps/dashboard/templates/dashboard/actions_table.html:13
 #: apps/dashboard/templates/dashboard/users_table.html:9
 #: apps/library/templates/library/profile.html:19 apps/utils/forms.py:12
 msgid "Username"
-msgstr ""
+msgstr "Nombre de usuario"
 
 #: apps/dashboard/templates/dashboard/collection.html:6
 #: apps/dashboard/templates/dashboard/document.html:5
@@ -69,71 +69,71 @@ msgstr ""
 #: apps/library/templates/library/collections.html:6
 #: apps/library/templates/library/document.html:8
 msgid "My Collections"
-msgstr ""
+msgstr "Mis colecciones"
 
 #: apps/dashboard/templates/dashboard/collection.html:19
 msgid "My recent document accesses for this collection"
-msgstr ""
+msgstr "Mis accesos recientes a documentos para esta colección"
 
 #: apps/dashboard/templates/dashboard/collection.html:27
 #: apps/dashboard/templates/dashboard/document.html:21
 #: apps/dashboard/templates/dashboard/homepage.html:23
 msgid "Access time"
-msgstr ""
+msgstr "Tiempo de acceso"
 
 #: apps/dashboard/templates/dashboard/collection.html:56
 #: apps/dashboard/templates/dashboard/document.html:47
 msgid "Table"
-msgstr ""
+msgstr "Tabla"
 
 #: apps/dashboard/templates/dashboard/collection.html:57
 #: apps/dashboard/templates/dashboard/document.html:48
 msgid "All activities"
-msgstr ""
+msgstr "Todas las actividades"
 
 #: apps/dashboard/templates/dashboard/collection.html:58
 #: apps/dashboard/templates/dashboard/document.html:49
 #: apps/dashboard/templates/dashboard/homepage.html:40
 #: apps/dashboard/templates/dashboard/homepage.html:51
 msgid "My activities"
-msgstr ""
+msgstr "Mis actividadades"
 
 #: apps/dashboard/templates/dashboard/collection.html:60
 #: apps/dashboard/templates/dashboard/document.html:51
 msgid "Activities for... "
-msgstr ""
+msgstr "Actividades para ..."
 
 #: apps/dashboard/templates/dashboard/collection.html:63
 msgid "User list loading..."
-msgstr ""
+msgstr "Cargando lista de usuarios ..."
 
 #: apps/dashboard/templates/dashboard/collection.html:66
 #: apps/dashboard/templates/dashboard/document.html:56
 msgid "Most Active Users"
-msgstr ""
+msgstr "Usuarios más activos"
 
 #: apps/dashboard/templates/dashboard/collections_table.html:8
 msgid "ColId"
-msgstr ""
+msgstr "Id de la colección"
 
 #: apps/dashboard/templates/dashboard/collections_table.html:10
 #: apps/library/templates/library/jobs_list.html:8
 #: apps/library/templates/library/jobs_list_compact.html:5
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: apps/dashboard/templates/dashboard/collections_table.html:11
 #: apps/dashboard/templates/dashboard/users_table.html:15
 msgid "Role"
-msgstr ""
+msgstr "Rol"
 
 #: apps/dashboard/templates/dashboard/document.html:16
 msgid "My recent document accesses for this document"
-msgstr ""
+msgstr "Mis accesos recientes para este documento"
 
 #: apps/dashboard/templates/dashboard/document.html:53
 msgid "Default 4"
-msgstr ""
+msgstr "Por defecto 4"
 
 #: apps/dashboard/templates/dashboard/documents_table.html:8
 #: apps/dashboard/templates/dashboard/pages_table.html:8
@@ -150,109 +150,109 @@ msgstr ""
 #: apps/library/templates/library/transcript.html:37
 #: apps/library/templates/library/word.html:31
 msgid "ID"
-msgstr ""
+msgstr "Id"
 
 #: apps/dashboard/templates/dashboard/documents_table.html:10
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: apps/dashboard/templates/dashboard/documents_table.html:11
 msgid "Uploaded"
-msgstr ""
+msgstr "Cargado"
 
 #: apps/dashboard/templates/dashboard/documents_table.html:12
 msgid "Uploader"
-msgstr ""
+msgstr "Cargador"
 
 #: apps/dashboard/templates/dashboard/documents_table.html:13
 msgid "Pages"
-msgstr ""
+msgstr "Páginas"
 
 #: apps/dashboard/templates/dashboard/documents_table.html:14
 #: apps/library/templates/library/word.html:33 apps/utils/forms.py:17
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: apps/dashboard/templates/dashboard/documents_table.html:15
 #: apps/dashboard/templates/dashboard/homepage.html:96
 #: apps/dashboard/templates/dashboard/pages_table.html:11
 #: apps/library/templates/library/page.html:38
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 #: apps/dashboard/templates/dashboard/homepage.html:5
 msgid "Dashboard"
-msgstr ""
+msgstr "Panel de mandos"
 
 #: apps/dashboard/templates/dashboard/homepage.html:14
 msgid "My recent document accesses"
-msgstr ""
+msgstr "Mis accesos recientes a documentos"
 
 #: apps/dashboard/templates/dashboard/homepage.html:52
 msgid "My activities chart"
-msgstr ""
+msgstr "Mi diagrama de actividades"
 
 #: apps/dashboard/templates/dashboard/homepage.html:53
 msgid "My most active collections"
-msgstr ""
+msgstr "Mis colecciones más activas"
 
 #: apps/dashboard/templates/dashboard/homepage.html:88
 msgid "My overall activity"
-msgstr ""
+msgstr "Mi activdad global"
 
 #: apps/dashboard/templates/dashboard/homepage.html:92
 msgid "User activity"
-msgstr ""
+msgstr "Actividad de usuario"
 
 #: apps/dashboard/templates/dashboard/pages_table.html:9
 #: apps/library/templates/library/page.html:31
 msgid "Page Number"
-msgstr ""
+msgstr "Número de página"
 
 #: apps/dashboard/templates/dashboard/pages_table.html:10
 msgid "File"
-msgstr ""
+msgstr "Fichero"
 
 #: apps/dashboard/templates/dashboard/pages_table.html:12
 msgid "No. of Transcripts"
-msgstr ""
+msgstr "Número de transcripciones"
 
 #: apps/dashboard/templates/dashboard/users_table.html:8
 msgid "UserId"
-msgstr ""
+msgstr "Id de usuario"
 
 #: apps/dashboard/templates/dashboard/users_table.html:10
 #: apps/utils/forms.py:9
 msgid "Given Name"
-msgstr ""
+msgstr "Nombre"
 
 #: apps/dashboard/templates/dashboard/users_table.html:11
 #: apps/utils/forms.py:10
 msgid "Family Name"
-msgstr ""
+msgstr "Apellido"
 
 #: apps/dashboard/templates/dashboard/users_table.html:12
 #: apps/library/templates/library/profile.html:20
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: apps/dashboard/templates/dashboard/users_table.html:13
 #: apps/library/templates/library/profile.html:24
 msgid "Affiliation"
-msgstr ""
+msgstr "Institución de trabajo"
 
 #: apps/dashboard/templates/dashboard/users_table.html:14
 #: apps/library/templates/library/jobs_list.html:8
 msgid "Created"
-msgstr ""
+msgstr "Creado"
 
 #: apps/edit/templates/edit/correct.html:43
 msgid "You have unsaved changes."
-msgstr ""
+msgstr "Tiene cambios no guardados."
 
 #: apps/edit/templates/edit/correct.html:44
 msgid "Saving changes..."
-msgstr ""
+msgstr "Guardando cambios ..."
 
 #: apps/edit/templates/edit/correct.html:71
 #: apps/library/templates/library/collections_table.html:6
@@ -261,283 +261,283 @@ msgstr ""
 #: apps/library/templates/library/region.html:34
 #: apps/library/templates/library/word.html:34 apps/library/views.py:216
 msgid "Image"
-msgstr ""
+msgstr "Imagen"
 
 #: apps/edit/templates/edit/correct.html:72 apps/library/views.py:217
 msgid "Line by line"
-msgstr ""
+msgstr "Línea a línea"
 
 #: apps/edit/templates/edit/correct.html:73 apps/library/views.py:218
 msgid "Side by side"
-msgstr ""
+msgstr "Uno junto a otro"
 
 #: apps/edit/templates/edit/correct.html:74
 #: apps/library/templates/library/line.html:32
 #: apps/library/templates/library/region.html:33
 #: apps/library/templates/library/word.html:32 apps/library/views.py:219
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: apps/edit/templates/edit/correct.html:77
 msgid "Zoom In"
-msgstr ""
+msgstr "Agrandar"
 
 #: apps/edit/templates/edit/correct.html:78
 msgid "Zoom Out"
-msgstr ""
+msgstr "Reducir"
 
 #: apps/edit/templates/edit/correct.html:79
 msgid "Fit Width"
-msgstr ""
+msgstr "Ajustar a anchura"
 
 #: apps/edit/templates/edit/correct.html:80
 msgid "Fit Height"
-msgstr ""
+msgstr "Ajustar a altura"
 
 #: apps/edit/templates/edit/correct.html:83
 msgid "First page"
-msgstr ""
+msgstr "Primer página"
 
 #: apps/edit/templates/edit/correct.html:84
 msgid "Previous page"
-msgstr ""
+msgstr "Página previa"
 
 #: apps/edit/templates/edit/correct.html:86
 msgid "Next page"
-msgstr ""
+msgstr "Página siguiente"
 
 #: apps/edit/templates/edit/correct.html:87
 msgid "Last page"
-msgstr ""
+msgstr "Última página"
 
 #: apps/edit/templates/edit/correct.html:88
 msgid "Thumb overview"
-msgstr ""
+msgstr "Vista resumida"
 
 #: apps/edit/templates/edit/correct.html:91
 #: apps/edit/templates/edit/correct.html:459
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: apps/edit/templates/edit/correct.html:91
 #: apps/edit/templates/edit/correct.html:452
 msgid "View"
-msgstr ""
+msgstr "Ver"
 
 #: apps/edit/templates/edit/correct.html:99
 #: apps/edit/templates/edit/correct.html:118
 #: apps/edit/templates/edit/correct.html:426
 #: apps/edit/templates/edit/correct.html:436
 msgid "Page status: in progress"
-msgstr ""
+msgstr "Estado de la página: en progreso"
 
 #: apps/edit/templates/edit/correct.html:101
 #: apps/edit/templates/edit/correct.html:120
 #: apps/edit/templates/edit/correct.html:420
 #: apps/edit/templates/edit/correct.html:438
 msgid "Page status: done"
-msgstr ""
+msgstr "Estado de la página: terminado"
 
 #: apps/edit/templates/edit/correct.html:103
 #: apps/edit/templates/edit/correct.html:122
 #: apps/edit/templates/edit/correct.html:440
 msgid "Page status: final"
-msgstr ""
+msgstr "Estado de la página: final"
 
 #: apps/edit/templates/edit/correct.html:105
 #: apps/edit/templates/edit/correct.html:124
 msgid "Page status: ground truth"
-msgstr ""
+msgstr "Estado de la página: vista correcta"
 
 #: apps/edit/templates/edit/correct.html:110 apps/library/views.py:199
 #: apps/library/views.py:281
 msgid "In Progress"
-msgstr ""
+msgstr "En marcha"
 
 #: apps/edit/templates/edit/correct.html:111 apps/library/views.py:200
 #: apps/library/views.py:282
 msgid "Done"
-msgstr ""
+msgstr "Hecho"
 
 #: apps/edit/templates/edit/correct.html:112 apps/library/views.py:201
 #: apps/library/views.py:283
 msgid "Final"
-msgstr ""
+msgstr "Final"
 
 #: apps/edit/templates/edit/correct.html:128
 #: apps/edit/templates/edit/correct_modal.html:66
 msgid "Save changes"
-msgstr ""
+msgstr "Guardar cambios"
 
 #: apps/edit/templates/edit/correct.html:133
 msgid ""
 "This page lacks segmentation and cannot be edited. Please use TranskribusX "
 "to create a segmentation first."
-msgstr ""
+msgstr "Esta página carece de segmentación y no puede editarse. Por favor, utilice Transkribus para crear una segmentación inicial"
 
 #: apps/edit/templates/edit/correct.html:190
 #: apps/edit/templates/edit/correct.html:284
 msgid "Your browser does not support the HTML5 canvas tag."
-msgstr ""
+msgstr "Tu navegador no soportar la etiqueta canvas HTML5"
 
 #: apps/edit/templates/edit/correct.html:277
 msgid "The page contains no lines."
-msgstr ""
+msgstr "Esta página no contiene ninguna línea"
 
 #: apps/edit/templates/edit/correct.html:430
 #: apps/edit/templates/edit/correct.html:444
 msgid "You can not change the page status."
-msgstr ""
+msgstr "No puede cambiar el estado de esta página"
 
 #: apps/edit/templates/edit/correct.html:928
 msgid "You have unsaved changes. Are you sure you want to leave?"
-msgstr ""
+msgstr "Tiene cambios sin guardar. Seguro que desea abandonar?"
 
 #: apps/edit/templates/edit/correct_modal.html:5
 msgid "Edit line"
-msgstr ""
+msgstr "Editar línea"
 
 #: apps/edit/templates/edit/correct_modal.html:14
 msgid "Add line"
-msgstr ""
+msgstr "Añadir línea"
 
 #: apps/edit/templates/edit/correct_modal.html:17
 msgid "Remove line"
-msgstr ""
+msgstr "Eliminar línea"
 
 #: apps/edit/templates/edit/correct_modal.html:24
 #: apps/edit/templates/edit/option_box.html:7
 msgid "Previous line"
-msgstr ""
+msgstr "Línea previa"
 
 #: apps/edit/templates/edit/correct_modal.html:27
 #: apps/edit/templates/edit/option_box.html:10
 msgid "Next line"
-msgstr ""
+msgstr "Línea siguiente"
 
 #: apps/edit/templates/edit/correct_modal.html:34
 #: apps/edit/templates/edit/option_box.html:17
 msgid "Enlarge text"
-msgstr ""
+msgstr "Agrandar texto"
 
 #: apps/edit/templates/edit/correct_modal.html:37
 #: apps/edit/templates/edit/option_box.html:20
 msgid "Shrink text"
-msgstr ""
+msgstr "Reducir texto"
 
 #: apps/edit/templates/edit/correct_modal.html:44
 #: apps/edit/templates/edit/option_box.html:27
 msgid "Bold"
-msgstr ""
+msgstr "Negrita"
 
 #: apps/edit/templates/edit/correct_modal.html:47
 #: apps/edit/templates/edit/option_box.html:30
 msgid "Italic"
-msgstr ""
+msgstr "Itálica"
 
 #: apps/edit/templates/edit/correct_modal.html:50
 #: apps/edit/templates/edit/option_box.html:33
 msgid "Subscript"
-msgstr ""
+msgstr "Subscript"
 
 #: apps/edit/templates/edit/correct_modal.html:53
 #: apps/edit/templates/edit/option_box.html:36
 msgid "Superscript"
-msgstr ""
+msgstr "Superscript"
 
 #: apps/edit/templates/edit/correct_modal.html:56
 #: apps/edit/templates/edit/option_box.html:39
 msgid "Underline"
-msgstr ""
+msgstr "Subrayar"
 
 #: apps/edit/templates/edit/correct_modal.html:59
 #: apps/edit/templates/edit/option_box.html:42
 msgid "Strikethrough"
-msgstr ""
+msgstr "Tachar"
 
 #: apps/edit/templates/edit/proofread.html:6
 msgid "Original version"
-msgstr ""
+msgstr "Versión original"
 
 #: apps/edit/templates/edit/proofread.html:10
 msgid "Your version"
-msgstr ""
+msgstr "Su versión"
 
 #: apps/edit/views.py:74 apps/edit/views.py:167
 msgid "Transcript saved!"
-msgstr ""
+msgstr "Transcripción guardada!"
 
 #: apps/edit/views.py:171
 msgid "Page status changed!"
-msgstr ""
+msgstr "Estado de página cambiado!"
 
 #: apps/library/templates/library/about.html:13
 #: apps/search/templates/search/navi_base.html:47
 #: templates/pages/about.html:13
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: apps/library/templates/library/changed_jobs_modal.html:13
 #: apps/library/templates/library/changed_jobs_modal.html:17
 #: apps/library/templates/library/create_collection_modal.html:18
 #: apps/library/templates/library/create_collection_modal.html:25
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 #: apps/library/templates/library/collections_dropdown.html:4
 msgid "Select collection"
-msgstr ""
+msgstr "Seleccionar colección"
 
 #: apps/library/templates/library/collections_table.html:7
 msgid "Collection Title and description"
-msgstr ""
+msgstr "Título de colección y descripción"
 
 #: apps/library/templates/library/collections_table.html:8
 msgid "No. of Docs"
-msgstr ""
+msgstr "Número de documentos"
 
 #: apps/library/templates/library/collections_table.html:9
 msgid "My Role"
-msgstr ""
+msgstr "Mi rol"
 
 #: apps/library/templates/library/collections_table.html:10
 #: apps/library/templates/library/documents_table.html:13
 msgid "Stats"
-msgstr ""
+msgstr "Estadísticas"
 
 #: apps/library/templates/library/create_collection_modal.html:4
 #: apps/library/templates/library/create_collection_modal.html:11
 msgid "Create a new collection"
-msgstr ""
+msgstr "Crear una nueva colección"
 
 #: apps/library/templates/library/create_collection_modal.html:14
 msgid "New collection name:"
-msgstr ""
+msgstr "Nuevo nombre de colección:"
 
 #: apps/library/templates/library/create_collection_modal.html:19
 msgid "Create collection"
-msgstr ""
+msgstr "Crear colección"
 
 #: apps/library/templates/library/document.html:36
 #: apps/library/templates/library/document_page.html:148
 msgid "This document was uploaded by "
-msgstr ""
+msgstr "Este documento fue cargado por "
 
 #: apps/library/templates/library/document.html:98
 msgid "Page number"
-msgstr ""
+msgstr "Número de página"
 
 #: apps/library/templates/library/document.html:98
 msgid "Image file name"
-msgstr ""
+msgstr "Nombre de fichero de imagen"
 
 #: apps/library/templates/library/document.html:98
 msgid "Transcripts"
-msgstr ""
+msgstr "Transcripciones"
 
 #: apps/library/templates/library/documents.html:14
 msgid "Collections Browse"
-msgstr ""
+msgstr "Navegar por colecciones"
 
 #: apps/library/templates/library/documents.html:113
 msgid ""
@@ -549,148 +549,148 @@ msgstr ""
 #: apps/library/templates/library/documents.html:116
 #: apps/library/templates/library/homepage.html:102
 msgid "More about READ"
-msgstr ""
+msgstr "Más acerca de READ"
 
 #: apps/library/templates/library/documents_table.html:10
 msgid "Views"
-msgstr ""
+msgstr "Vistas"
 
 #: apps/library/templates/library/documents_table.html:11
 msgid "Document title and description"
-msgstr ""
+msgstr "Título del documento y descripción"
 
 #: apps/library/templates/library/documents_table.html:12
 msgid "pp."
-msgstr ""
+msgstr "Páginas"
 
 #: apps/library/templates/library/error.html:14
 msgid "We have a slight problem"
-msgstr ""
+msgstr "Tenemos un pequeño problema"
 
 #: apps/library/templates/library/error.html:17
 msgid "Return to the"
-msgstr ""
+msgstr "Volver a"
 
 #: apps/library/templates/library/error.html:17 templates/error.html:14
 msgid "previous page"
-msgstr ""
+msgstr "Página previa"
 
 #: apps/library/templates/library/error.html:18
 msgid "Or to the READ WebUI"
-msgstr ""
+msgstr "O a la WebUI de READ"
 
 #: apps/library/templates/library/error.html:18 templates/error.html:15
 msgid "home page"
-msgstr ""
+msgstr "Página inicial"
 
 #: apps/library/templates/library/homepage.html:14
 msgid "Welcome to the Transkribus Library"
-msgstr ""
+msgstr "Bienvenido a la biblioteca de Transkribus"
 
 #: apps/library/templates/library/homepage.html:30
 msgid "Caption 1"
-msgstr ""
+msgstr "Leyenda 1"
 
 #: apps/library/templates/library/homepage.html:36
 msgid "Caption 2"
-msgstr ""
+msgstr "Leyenda 2"
 
 #: apps/library/templates/library/homepage.html:42
 msgid "Caption 3"
-msgstr ""
+msgstr "Leyenda 3"
 
 #: apps/library/templates/library/homepage.html:49
 #: apps/navigation/templates/navigation/nav_buttons.html:8
 #: apps/navigation/templates/navigation/nav_buttons.html:10
 msgid "Previous"
-msgstr ""
+msgstr "Previo"
 
 #: apps/library/templates/library/homepage.html:53
 #: apps/navigation/templates/navigation/nav_buttons.html:16
 #: apps/navigation/templates/navigation/nav_buttons.html:18
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #: apps/library/templates/library/homepage.html:61
 msgid "Manage"
-msgstr ""
+msgstr "Gestionar"
 
 #: apps/library/templates/library/homepage.html:65
 #: apps/library/templates/library/homepage.html:76
 #: apps/library/templates/library/homepage.html:87
 msgid "Learn More"
-msgstr ""
+msgstr "Saber más"
 
 #: apps/library/templates/library/homepage.html:72
 msgid "Transcribe"
-msgstr ""
+msgstr "Transcribir"
 
 #: apps/library/templates/library/homepage.html:83
 msgid "Publish"
-msgstr ""
+msgstr "Publicar"
 
 #: apps/library/templates/library/ingest_mets_url.html:14
 msgid "Ingest METS XML URL"
-msgstr ""
+msgstr "Ingerir METS XML URL"
 
 #: apps/library/templates/library/jobs.html:10
 msgid "Your jobs in Transkribus"
-msgstr ""
+msgstr "Sus procesos en Transkribus"
 
 #: apps/library/templates/library/jobs_list.html:4
 msgid "Only show unfinished jobs."
-msgstr ""
+msgstr "Mostrar solo procesos no terminados."
 
 #: apps/library/templates/library/jobs_list.html:8
 #: apps/library/templates/library/jobs_list_compact.html:5
 #: apps/library/templates/library/region.html:32
 msgid "Type"
-msgstr ""
+msgstr "Teclear"
 
 #: apps/library/templates/library/jobs_list.html:8
 #: apps/library/templates/library/jobs_list_compact.html:5
 msgid "State"
-msgstr ""
+msgstr "Estado"
 
 #: apps/library/templates/library/jobs_list.html:15
 msgid "Cancel job"
-msgstr ""
+msgstr "Cancelar proceso"
 
 #: apps/library/templates/library/line.html:33
 msgid "Primary language"
-msgstr ""
+msgstr "Idioma principal"
 
 #: apps/library/templates/library/line.html:42
 msgid "LETTERS"
-msgstr ""
+msgstr "LETRAS"
 
 #: apps/library/templates/library/line.html:42
 #: apps/library/templates/library/region.html:41
 #: apps/library/templates/library/transcript.html:37
 msgid "COORDS"
-msgstr ""
+msgstr "COORDENADAS"
 
 #: apps/library/templates/library/line.html:42
 #: apps/library/templates/library/region.html:41
 msgid "BASELINE"
-msgstr ""
+msgstr "LINEA BASE"
 
 #: apps/library/templates/library/line.html:42
 #: apps/library/templates/library/region.html:41
 #: apps/library/templates/library/transcript.html:37
 msgid "TEXT"
-msgstr ""
+msgstr "TEXTO"
 
 #: apps/library/templates/library/line.html:42
 #: apps/library/templates/library/region.html:41
 #: apps/library/templates/library/transcript.html:37
 msgid "METADATA"
-msgstr ""
+msgstr "METADATOS"
 
 #: apps/library/templates/library/line.html:42
 #: apps/library/templates/library/region.html:41
 msgid "LANGUAGE"
-msgstr ""
+msgstr "IDIOMA"
 
 #: apps/library/templates/library/line.html:49
 #: apps/library/templates/library/line.html:50
@@ -698,426 +698,426 @@ msgstr ""
 #: apps/library/templates/library/region.html:48
 #: apps/library/templates/library/transcript.html:45
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: apps/library/templates/library/line.html:49
 #: apps/library/templates/library/region.html:47
 #: apps/library/templates/library/region.html:48
 #: apps/library/templates/library/transcript.html:45
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: apps/library/templates/library/message_modal.html:14
 msgid "Information"
-msgstr ""
+msgstr "Información"
 
 #: apps/library/templates/library/message_modal.html:24
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: apps/library/templates/library/page.html:38
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: apps/library/templates/library/page.html:38
 msgid "Transcriber"
-msgstr ""
+msgstr "Transcriptor"
 
 #: apps/library/templates/library/page.html:38
 msgid "timestamp"
-msgstr ""
+msgstr "Sello temporal"
 
 #: apps/library/templates/library/profile.html:21
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: apps/library/templates/library/profile.html:22
 msgid "Gender"
-msgstr ""
+msgstr "Género"
 
 #: apps/library/templates/library/quick_ingest_mets_url.html:14
 msgid "Quick Ingest METS XML URL"
-msgstr ""
+msgstr "Ingestión rápida de METS XML URL"
 
 #: apps/library/templates/library/quick_ingest_mets_url.html:17
 msgid "Collection Name"
-msgstr ""
+msgstr "Nombre de colección"
 
 #: apps/library/templates/library/redirect_from_quick_ingest.html:10
 msgid "Your document is being processed."
-msgstr ""
+msgstr "Su documento está siendo procesado."
 
 #: apps/library/templates/library/redirect_from_quick_ingest.html:12
 msgid "You're being redirected to where you came from."
-msgstr ""
+msgstr "Va a ser redirigido al punto de donde vino."
 
 #: apps/library/templates/library/region.html:41
 msgid "WORDS"
-msgstr ""
+msgstr "PALABRAS"
 
 #: apps/library/templates/library/search.html:14
 #: apps/search/templates/search/navi_base.html:23
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: apps/library/templates/library/transcript.html:34
 msgid "Correct this transcript."
-msgstr ""
+msgstr "Corregir esta transcripción."
 
 #: apps/library/templates/library/transcript.html:37
 msgid "TYPE"
-msgstr ""
+msgstr "TECLEAR"
 
 #: apps/library/templates/library/transcript.html:37
 msgid "TEXTLINES"
-msgstr ""
+msgstr "LINEAS DE TEXTO"
 
 #: apps/library/templates/library/transcript.html:46
 msgid "No Text"
-msgstr ""
+msgstr "Sin texto"
 
 #: apps/library/templates/library/user_guide.html:14
 #: apps/search/templates/search/navi_base.html:50
 #: templates/pages/user_guide.html:14
 msgid "User Guide"
-msgstr ""
+msgstr "Guía de usuario"
 
 #: apps/library/templates/library/user_guide.html:17
 #: templates/pages/user_guide.html:17
 msgid "Transkribus User Guide (Desktop)"
-msgstr ""
+msgstr "Guía de usuario de Transkribus (Escritorio)"
 
 #: apps/library/templates/library/users.html:14
 msgid "Users"
-msgstr ""
+msgstr "Usuarios"
 
 #: apps/library/templates/library/users.html:17
 msgid ""
 "Show as much as we are allowed to see about this user (perhaps a lot if we "
 "are a collection owner?)"
-msgstr ""
+msgstr "Mostrar cuanto sea posible acerca de este usuario (quizás mucho si somos propietarios de la colección?)"
 
 #: apps/library/templates/library/word.html:38
 msgid "This word has some metadata:"
-msgstr ""
+msgstr "Este palabra tiene algunos metadados:"
 
 #: apps/library/views.py:177
 #, python-format
 msgid "Page %(pageNr)s of %(docName)s last saved on %(time)s</p>"
-msgstr ""
+msgstr "Página %(pageNr)s de %(docName)s última vez guardada en %(time)s</p>"
 
 #: apps/library/views.py:182
 #, python-format
 msgid ""
 "<p>Go to <i>your</i> <a href=\"%s\">last saved page</a> in this collection.</"
 "p>"
-msgstr ""
+msgstr "<p>Ir a <i>su</i> <a href=\"%s\">página última vez guardada</a> en esta colección.</p>"
 
 #: apps/library/views.py:198 apps/library/views.py:280
 msgid "New"
-msgstr ""
+msgstr "Nuevo"
 
 #: apps/library/views.py:202 apps/library/views.py:284
 msgid "Ground Truth"
-msgstr ""
+msgstr "Ground Truth"
 
 #: apps/library/views.py:256
 #, python-format
 msgid "Page %(pageNr)s last saved on %(time)s</p>"
-msgstr ""
+msgstr "Página %(pageNr)s última vez guardada el %(time)s</p>"
 
 #: apps/library/views.py:260
 #, python-format
 msgid ""
 "Go to <i>your</i> <a href=\"%(link)s\">last saved page</a> in this document"
-msgstr ""
+msgstr "Ir a <i>su</i> <a href=\"%(link)s\"> página última vez guardada</a> en este documento"
 
 #: apps/library/views.py:275
 msgid "Available for editing"
-msgstr ""
+msgstr "Disponbile para editar"
 
 #: apps/library/views.py:276
 msgid "Lines"
-msgstr ""
+msgstr "Líneas"
 
 #: apps/library/views.py:277
 msgid "Words"
-msgstr ""
+msgstr "Palabras"
 
 #: apps/library/views.py:279
 msgid "Status of pages"
-msgstr ""
+msgstr "Estado de las páginas"
 
 #: apps/library/views.py:287
 msgid "Tags"
-msgstr ""
+msgstr "Etiquetas"
 
 #: apps/library/views.py:288
 msgid "People"
-msgstr ""
+msgstr "Personas"
 
 #: apps/library/views.py:289
 msgid "Places"
-msgstr ""
+msgstr "Lugares"
 
 #: apps/library/views.py:290
 msgid "Dates"
-msgstr ""
+msgstr "Fechas"
 
 #: apps/library/views.py:291
 msgid "Abbreviations"
-msgstr ""
+msgstr "Abreviaturas"
 
 #: apps/library/views.py:292
 msgid "Other"
-msgstr ""
+msgstr "Otros"
 
 #: apps/navigation/templates/navigation/nav_buttons.html:4
 msgid "Up"
-msgstr ""
+msgstr "Arriba"
 
 #: apps/search/templates/search/navi_base.html:16
 msgid "Transkribus Search"
-msgstr ""
+msgstr "Buscar en Transkribus"
 
 #: apps/search/templates/search/navi_base.html:20
 msgid "Collections"
-msgstr ""
+msgstr "Colecciones"
 
 #: apps/search/templates/search/navi_base.html:26
 msgid "Ingest documents"
-msgstr ""
+msgstr "Ingerir documentos"
 
 #: apps/search/templates/search/navi_base.html:28
 msgid "Upload METS XML file"
-msgstr ""
+msgstr "Cargar fichero METS XML"
 
 #: apps/search/templates/search/navi_base.html:29
 msgid "Enter URL to METS XML file"
-msgstr ""
+msgstr "Introducir URL en fichero METS XML"
 
 #: apps/search/templates/search/navi_base.html:33
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 #: apps/search/templates/search/navi_base.html:36 templates/navi_base.html:38
 msgid "Logout"
-msgstr ""
+msgstr "Salir"
 
 #: apps/search/templates/search/navi_base.html:40 templates/navi_base.html:45
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 #: apps/search/templates/search/navi_base.html:43 templates/navi_base.html:49
 #: templates/pages/register.html:13 templates/registration/register.html:16
 #: templates/registration/register.html:24
 msgid "Register"
-msgstr ""
+msgstr "Registrar"
 
 #: apps/search/templates/search/navi_base.html:65
 msgid "Job status changed!"
-msgstr ""
+msgstr "Estado del proceso cambiado"
 
 #: apps/search/templates/search/navi_base.html:66
 msgid "Details."
-msgstr ""
+msgstr "Detalles."
 
 #: apps/search/templates/search/navi_base.html:96
 msgid "READ - A horizon 2020 e-infrastructure project"
-msgstr ""
+msgstr "READ - Un proyecto de e-infrastructura de Horizon 2020"
 
 #: apps/utils/forms.py:13
 msgid "Password"
-msgstr ""
+msgstr "Clave"
 
 #: apps/utils/utils.py:100
 msgid ""
 "Transkribus session is unauthorised, you must log on to Transkribus-web."
-msgstr ""
+msgstr "Sesión de Transkribus no autorizada, debe entrar a través de la web de Transkribus"
 
 #: apps/utils/utils.py:101
 msgid "You are forbidden to request this data from Transkribus."
-msgstr ""
+msgstr "Tiene prohibido solicitar estos datos desde Transkribus"
 
 #: apps/utils/utils.py:102
 msgid "The requested Transkribus resource does not exist."
-msgstr ""
+msgstr "El recurso de Transkribus solicitado no existe."
 
 #: apps/utils/utils.py:103
 msgid "A Server error was reported by Transkribus."
-msgstr ""
+msgstr "Se ha reportado un error del servidor de Transkribus"
 
 #: apps/utils/utils.py:104
 msgid "Could not contact the Transkribus service, please try again later."
-msgstr ""
+msgstr "No se pudo contactar con el servicio de Transkribus, por favor, inténtelo más tarde."
 
 #: apps/utils/utils.py:105
 msgid "An unknown error was returned by Transkribus: "
-msgstr ""
+msgstr "Transkribus devolvió un error desconocido: "
 
 #: mc/settings/production.py:168
 msgid "Bulgarian"
-msgstr ""
+msgstr "Búlgaro"
 
 #: mc/settings/production.py:169
 msgid "Croatian"
-msgstr ""
+msgstr "Croata"
 
 #: mc/settings/production.py:170
 msgid "Czech"
-msgstr ""
+msgstr "Checo"
 
 #: mc/settings/production.py:171
 msgid "Danish"
-msgstr ""
+msgstr "Danés"
 
 #: mc/settings/production.py:172
 msgid "Dutch"
-msgstr ""
+msgstr "Holandés"
 
 #: mc/settings/production.py:173
 msgid "English"
-msgstr ""
+msgstr "Inglés"
 
 #: mc/settings/production.py:174
 msgid "Estonian"
-msgstr ""
+msgstr "Estonio"
 
 #: mc/settings/production.py:175
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandés"
 
 #: mc/settings/production.py:176
 msgid "French"
-msgstr ""
+msgstr "Francés"
 
 #: mc/settings/production.py:177
 msgid "German"
-msgstr ""
+msgstr "Alemán"
 
 #: mc/settings/production.py:178
 msgid "Greek"
-msgstr ""
+msgstr "Griego"
 
 #: mc/settings/production.py:179
 msgid "Hungarian"
-msgstr ""
+msgstr "Húngaro"
 
 #: mc/settings/production.py:180
 msgid "Irish"
-msgstr ""
+msgstr "Irlandés"
 
 #: mc/settings/production.py:181
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 #: mc/settings/production.py:182
 msgid "Latvian"
-msgstr ""
+msgstr "Latvio"
 
 #: mc/settings/production.py:183
 msgid "Lithuanian"
-msgstr ""
+msgstr "Lituano"
 
 #: mc/settings/production.py:185
 msgid "Polish"
-msgstr ""
+msgstr "Polaco"
 
 #: mc/settings/production.py:186
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugués"
 
 #: mc/settings/production.py:187
 msgid "Romanian"
-msgstr ""
+msgstr "Rumano"
 
 #: mc/settings/production.py:188
 msgid "Slovak"
-msgstr ""
+msgstr "Eslovaco"
 
 #: mc/settings/production.py:189
 msgid "Slovenian"
-msgstr ""
+msgstr "Esloveno"
 
 #: mc/settings/production.py:190
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 #: mc/settings/production.py:191
 msgid "Swedish"
-msgstr ""
+msgstr "Sueco"
 
 #: templates/base.html:130
 msgid "Transkribus is part of the "
-msgstr ""
+msgstr "Transkribus es parte del "
 
 #: templates/base.html:130
 msgid "READ project"
-msgstr ""
+msgstr "projecto READ"
 
 #: templates/base.html:130
 msgid ""
 " and has received funding from the European Union’s Horizon 2020 Research "
 "and Innovation programme under grant agreement no. 674943."
-msgstr ""
+msgstr "y ha recibido financiación del programa de investigación e innovación Horizon 2020 de la Unión Europea"
 
 #: templates/error.html:11 templates/registration/login.html:26
 msgid "We have a slight problem: "
-msgstr ""
+msgstr "Tenemos un pequeño problema: "
 
 #: templates/error.html:13
 msgid "Return to "
-msgstr ""
+msgstr "Volver a "
 
 #: templates/error.html:14
 msgid "the "
-msgstr ""
+msgstr "el "
 
 #: templates/error.html:14
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #: templates/error.html:15
 msgid "the Transkribus-web "
-msgstr ""
+msgstr "la página web de Transkribus"
 
 #: templates/pages/crowd_howto.html:10
 msgid "How to start a crowd sourcing project for your collection"
-msgstr ""
+msgstr "Cómo empezar un proyecto colaborativo para tu colección"
 
 #: templates/pages/register.html:14
 msgid ""
 "You will require a Transkribus account to use this service. You can register "
 "for free by going to <a href=\"https://transkribus.eu/\">transkribus.eu</a> "
 "and clicking on \"Register\""
-msgstr ""
+msgstr "Necesitará una cuenta de Transkribus para utilizar este servicio. Puede registrarse de manera gratuita a través de<a href=\"https://transkribus.eu/\">transkribus.eu</a> y pulsando en \"Registrarse\" "
 
 #: templates/pages/user_guide.html:18
 msgid "Prepare a collection for crowd-sourcing"
-msgstr ""
+msgstr "Preparar una colección para participación colaborativa"
 
 #: templates/registration/login.html:20
 msgid "Your username and password didn't match. Please try again."
-msgstr ""
+msgstr "Su nombre de usuario y clave no coinciden. Por favor, inténtelo otra vez."
 
 #: templates/registration/login.html:36
 msgid ""
 "This page requires a transkribus user account for access. If you have a "
 "transkribus user account, please login to continue."
-msgstr ""
+msgstr "Esta página requiere una cuenta de usuario en Transkribus. Si dispone de una cuenta de usuario, introduzca su datos para continuar."
 
 #: templates/registration/login.html:36
 msgid "If you do not have a transkribus user account, please"
-msgstr ""
+msgstr "Si no tiene una cuenta de usuario, por favor"
 
 #: templates/registration/login.html:36
 msgid "register for a free transkribus account."
-msgstr ""
+msgstr "regístrese de manera gratuita."
 
 #: templates/registration/login.html:43
 msgid "login"
-msgstr ""
+msgstr "login"
 
 #: templates/registration/login.html:48
 msgid "Lost password?"
-msgstr ""
+msgstr "Clave olvidada?"
